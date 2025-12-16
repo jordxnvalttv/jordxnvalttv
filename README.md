@@ -1,5 +1,22 @@
-## Hi there 👋
+### Hi, I'm Jordan. 
 
+I’m a Biology student at UCLA with a strong interest in integrating technology and biology to 
+solve real-world problems in medicine. I’m especially interested in how tools like data 
+analysis, software, and AI can improve healthcare, research, and patient outcomes.
+
+I’m currently building my technical skills through coding projects and learning more about 
+user-centered design, product thinking, and applied technology in scientific contexts.
+
+### Technical Skills
+- Python (basic–intermediate)
+- SQL (basic)
+- Git & GitHub
+- Data structures and problem-solving
+- Basic understanding of AI/ML concepts
+
+### How to find me?
+- LinkedIn: [Jordan](https://www.linkedin.com/in/jordan-nguyen-2654b5245/)
+- Email: jordanjojo1481@email.com
 <!--
 **jordxnvalttv/jordxnvalttv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
