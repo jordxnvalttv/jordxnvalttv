@@ -13,12 +13,12 @@ user-centered design, product thinking, and applied technology in scientific con
 - Git & GitHub
 - Data structures and problem-solving
 - Basic understanding of AI/ML concepts
-- 
+  
 ### Marketing & Social Media
 - **TikTok**: 2,000+ followers and 2 million+ likes - [@jordxnval](https://www.tiktok.com/@jordxnval)
 - **Twitch**: 2,000+ followers - [jordxnval](https://www.twitch.tv/jordxnval)
 - Experience managing large-scale social media accounts
-- 
+  
 ### How to find me?
 - LinkedIn: [Jordan](https://www.linkedin.com/in/jordan-nguyen-2654b5245/)
 - Email: jordanjojo1481@email.com
